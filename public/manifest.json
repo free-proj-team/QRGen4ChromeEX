@@ -1,10 +1,10 @@
 {
   "short_name": "QRGen4Print",
   "name": "QR Code Generator for Print",
-  "icons": [
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "description": "URL 접속이나 Wi-Fi 연결을 위한 QR 코드를 쉽게 생성하고 프린트 할 수 있도록 PNG 또는 PDF 파일을 제공합니다",
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "action": {
+    "default_popup": "index.html"
+  }
 }
