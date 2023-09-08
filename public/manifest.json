@@ -1,0 +1,10 @@
+{
+  "short_name": "QRGen4Print",
+  "name": "QR Code Generator for Print",
+  "icons": [
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
